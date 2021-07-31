@@ -1,7 +1,5 @@
 <h1> Olá 👋, prazer em te conhecer. Eu sou Norton Luiz</h1>
 <p align="center">
-
-<img align="right" src="https://github.com/nortonlui/nortonlui/blob/dc7dd0574929ac28b8de80fb8d7428b5cd348538/My%20Octocat.png" height="250px"/>
 <p align="left">Moro no Rio de Janeiro, sou Full Stack Developer e tambem profissional da área de TI. No frontend utilizo Javascript, React, Redux, HTML/CSS, SASS, Adobe XD, Figma. Já no backend utilizo NodeJS, PHP, Python, Django, Flask. No armazenamento de dados utilizo MongoDB, Mysql, Postgresql.  
 </p>
 
