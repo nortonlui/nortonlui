@@ -1,13 +1,7 @@
 <h1> Olá 👋, prazer em te conhecer. Eu sou Norton Luiz</h1>
 <p align="center">
-<p align="left">Moro no Rio de Janeiro, sou Full Stack Developer e tambem profissional da área de TI. No frontend utilizo Javascript, React, Redux, HTML/CSS, SASS, Adobe XD, Figma. Já no backend utilizo NodeJS, PHP, Python, Django, Flask. No armazenamento de dados utilizo MongoDB, Mysql, Postgresql.  
+<p align="left">Moro no Rio de Janeiro, sou Full Stack Developer e tambem profissional da área de TI. No frontend utilizo Javascript, React, Redux, HTML/CSS, SASS, Adobe XD, Figma. Já no backend utilizo Java, NodeJS, PHP, Python. No armazenamento de dados utilizo MongoDB, Mysql, Postgresql.  
 </p>
-
-No meu tempo livre eu gosto:
-
-- 📚 - Ler bons livros
-- 📺 - Assistir séries sobre sobrenatural ( Supernatural é muito boa ), terror e mitologia.
-- 🎵 - Amante do Rock Roll Clássico e Pop Clássico.
 
 </br>
 
